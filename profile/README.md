@@ -927,7 +927,7 @@ We're building in the open and welcome contributions:
 - **GitHub**: [github.com/qora-protocol](https://github.com/qora-protocol)
 - **Twitter/X**: [@Qora_Net](https://twitter.com/qora_net)
 - **LinkedIn**: [company/qoranet](https://linkedin.com/company/qoranet)
-- **Huggingface**: [r/QoraNet](https://huggingface.co/qoranet/)
+- **Huggingface**: [/QoraNet](https://huggingface.co/qoranet/)
 - **Email**: info@qoranet.com
 
 ---
