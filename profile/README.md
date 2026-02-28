@@ -952,7 +952,7 @@ Our AI models are open source. See individual model repos for specific license d
 [![GitHub](https://img.shields.io/badge/GitHub-qora--protocol-black?style=for-the-badge&logo=github)](https://github.com/qora-protocol)
 [![Twitter](https://img.shields.io/badge/Twitter-@Qora__Net-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/qora_net)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-qoranet-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/company/qoranet)
-
+</div>
 ---
 
 *Last updated: January 2026*
