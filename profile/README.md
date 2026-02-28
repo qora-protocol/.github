@@ -790,7 +790,7 @@ Inflation: 5% year 1, decreasing 1% annually to 2% floor
 | RPC | Tendermint-compatible |
 | gRPC | Cosmos SDK standard |
 
-<div align="center">
+
 
 ### Pure Rust AI Infrastructure for the Privacy-First Blockchain
 
@@ -947,7 +947,7 @@ Our AI models are open source. See individual model repos for specific license d
 ⚡ **QoraNet** — The Privacy-First Blockchain Infrastructure for AI
 
 </div>
-
+<div align="center">
 [![Website](https://img.shields.io/badge/Website-qoranet.com-blue?style=for-the-badge)](https://qoranet.com)
 [![GitHub](https://img.shields.io/badge/GitHub-qora--protocol-black?style=for-the-badge&logo=github)](https://github.com/qora-protocol)
 [![Twitter](https://img.shields.io/badge/Twitter-@Qora__Net-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/qora_net)
