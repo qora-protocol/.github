@@ -862,9 +862,9 @@ We're building a complete multi-modal AI suite in pure Rust:
 | Model | Status | Description |
 |---|---|---|
 | **QORA-LLM** | ✅ Released | Language model — chat, reasoning, code |
-| **QORA-TTS** | 🔄 Coming Soon | Text-to-speech — voice synthesis |
-| **QORA-Vision** | 🔄 Coming Soon | Image + video understanding |
-| **QORA-STT** | 📅 Planned | Speech-to-text — voice input |
+| **QORA-TTS** | ✅ Released| Text-to-speech — voice synthesis |
+| **QORA-Vision** | ✅ Released | Image + video understanding |
+| **QORA-STT** | ✅ Released | Speech-to-text — voice input |
 | **QORA-Agent** | 📅 Planned | Autonomous AI agent with tool use |
 
 Each model follows the same philosophy: **pure Rust, zero dependencies, runs locally, free forever.**
