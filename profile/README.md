@@ -877,7 +877,7 @@ Our AI models are a core component of the **QoraNet blockchain** — the world's
 
 ```
 ┌─────────────────────────────────────────────┐
-│            QoraNet Blockchain                │
+│            QoraNet Blockchain               │
 │          400ms Finality • 100k+ TPS         │
 ├─────────────┬───────────┬───────────────────┤
 │  Privacy    │  DeFi     │  Social           │
@@ -887,9 +887,9 @@ Our AI models are a core component of the **QoraNet blockchain** — the world's
 │  Stealth    │  Perps    │  AI Assistants    │
 │  Addresses  │  Oracle   │  Bot Framework    │
 ├─────────────┴───────────┴───────────────────┤
-│              AI Infrastructure               │
+│              AI Infrastructure              │
 │                                             │
-│  QORA-LLM • QORA-TTS • QORA-Vision        │
+│  QORA-LLM • QORA-TTS • QORA-Vision          │
 │  Pure Rust • On-chain billing • Verifiable  │
 │  Decentralized inference across validators  │
 └─────────────────────────────────────────────┘
