@@ -790,25 +790,9 @@ Inflation: 5% year 1, decreasing 1% annually to 2% floor
 | RPC | Tendermint-compatible |
 | gRPC | Cosmos SDK standard |
 
----
-title: Qoranet
-emoji: ⚡
-colorFrom: purple
-colorTo: blue
-sdk: static
-pinned: false
----
-
 <div align="center">
 
-# ⚡ QoraNet
-
 ### Pure Rust AI Infrastructure for the Privacy-First Blockchain
-
-[![Website](https://img.shields.io/badge/Website-qoranet.com-blue?style=for-the-badge)](https://qoranet.com)
-[![GitHub](https://img.shields.io/badge/GitHub-qora--protocol-black?style=for-the-badge&logo=github)](https://github.com/qora-protocol)
-[![Twitter](https://img.shields.io/badge/Twitter-@Qora__Net-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/qora_net)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-qoranet-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/company/qoranet)
 
 ---
 
@@ -963,6 +947,11 @@ Our AI models are open source. See individual model repos for specific license d
 ⚡ **QoraNet** — The Privacy-First Blockchain Infrastructure for AI
 
 </div>
+
+[![Website](https://img.shields.io/badge/Website-qoranet.com-blue?style=for-the-badge)](https://qoranet.com)
+[![GitHub](https://img.shields.io/badge/GitHub-qora--protocol-black?style=for-the-badge&logo=github)](https://github.com/qora-protocol)
+[![Twitter](https://img.shields.io/badge/Twitter-@Qora__Net-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/qora_net)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-qoranet-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/company/qoranet)
 
 ---
 
