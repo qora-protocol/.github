@@ -791,5 +791,179 @@ Inflation: 5% year 1, decreasing 1% annually to 2% floor
 | gRPC | Cosmos SDK standard |
 
 ---
+title: Qoranet
+emoji: ⚡
+colorFrom: purple
+colorTo: blue
+sdk: static
+pinned: false
+---
+
+<div align="center">
+
+# ⚡ QoraNet
+
+### Pure Rust AI Infrastructure for the Privacy-First Blockchain
+
+[![Website](https://img.shields.io/badge/Website-qoranet.com-blue?style=for-the-badge)](https://qoranet.com)
+[![GitHub](https://img.shields.io/badge/GitHub-qora--protocol-black?style=for-the-badge&logo=github)](https://github.com/qora-protocol)
+[![Twitter](https://img.shields.io/badge/Twitter-@Qora__Net-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/qora_net)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-qoranet-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/company/qoranet)
+
+---
+
+**Building AI models that run without Python, without cloud, without paid APIs.**
+**Just Rust. Just your machine. Just freedom.**
+
+</div>
+
+---
+
+## 🧠 What We're Building
+
+QoraNet is building the **world's first privacy-first blockchain with native AI infrastructure** — and we're open-sourcing the AI models that power it.
+
+Our AI stack is built **entirely in Rust** using the [Burn framework](https://github.com/tracel-ai/burn). No Python runtime. No PyTorch. No TensorFlow. No CUDA dependency. No C++ libraries.
+
+**One binary. Zero dependencies. Runs anywhere.**
+
+---
+
+## 🔥 Released Models
+
+### QORA-LLM
+
+> Pure Rust inference engine — no Python, no CUDA, no external dependencies
+
+| Detail | Spec |
+|---|---|
+| **Architecture** | SmolLM3-3B based |
+| **Language** | Pure Rust (Burn framework) |
+| **Dependencies** | Zero external ML libraries |
+| **Quantization** | Optimized for local execution |
+| **Platforms** | Windows, macOS, Linux, iOS, Android |
+| **GPU Required** | No — runs on CPU |
+| **API Key Required** | No |
+| **Cost** | Free forever |
+
+```bash
+# Clone and run — that's all you need
+git clone https://github.com/qora-protocol/qora-llm
+cd qora-llm
+cargo run --release
+```
+
+---
+
+## 🗺️ Roadmap — What's Coming
+
+We're building a complete multi-modal AI suite in pure Rust:
+
+| Model | Status | Description |
+|---|---|---|
+| **QORA-LLM** | ✅ Released | Language model — chat, reasoning, code |
+| **QORA-TTS** | 🔄 Coming Soon | Text-to-speech — voice synthesis |
+| **QORA-Vision** | 🔄 Coming Soon | Image + video understanding |
+| **QORA-STT** | 📅 Planned | Speech-to-text — voice input |
+| **QORA-Agent** | 📅 Planned | Autonomous AI agent with tool use |
+
+Each model follows the same philosophy: **pure Rust, zero dependencies, runs locally, free forever.**
+
+---
+
+## 🏗️ Part of the QoraNet Ecosystem
+
+Our AI models are a core component of the **QoraNet blockchain** — the world's fastest Layer-1 with mandatory privacy.
+
+```
+┌─────────────────────────────────────────────┐
+│            QoraNet Blockchain                │
+│          400ms Finality • 100k+ TPS         │
+├─────────────┬───────────┬───────────────────┤
+│  Privacy    │  DeFi     │  Social           │
+│             │           │                   │
+│  ZK-SNARKs  │  DEX      │  Encrypted Chat   │
+│  PLONK+KZG  │  CLOB     │  Video/Voice      │
+│  Stealth    │  Perps    │  AI Assistants    │
+│  Addresses  │  Oracle   │  Bot Framework    │
+├─────────────┴───────────┴───────────────────┤
+│              AI Infrastructure               │
+│                                             │
+│  QORA-LLM • QORA-TTS • QORA-Vision        │
+│  Pure Rust • On-chain billing • Verifiable  │
+│  Decentralized inference across validators  │
+└─────────────────────────────────────────────┘
+```
+
+### Key Blockchain Features
+
+- **400ms instant finality** — 10-50x faster than any EVM chain
+- **Mandatory ZK-SNARK privacy** — all tokens private by default
+- **34 native modules** — DEX, orderbook, perpetuals, oracle, chat, AI, auth, KYC, and more
+- **Full EVM compatibility** — deploy Solidity contracts with built-in privacy
+- **Native encrypted chat** — E2E encrypted messaging, video, and voice calls
+- **On-chain AI billing** — token-based payments for AI inference
+
+---
+
+## 🔐 Our AI Philosophy
+
+| Principle | What It Means |
+|---|---|
+| **Pure Rust** | No Python, no C++ FFI, no heavy runtimes |
+| **Zero Dependencies** | Single binary, nothing else to install |
+| **Local First** | Runs on your hardware, not our servers |
+| **Privacy by Default** | Your data never leaves your machine |
+| **Free Forever** | No API keys, no subscriptions, no limits |
+| **Cross Platform** | Windows, macOS, Linux, iOS, Android |
+| **Open Source** | Fully auditable, community-driven |
+
+---
+
+## ⚡ Why Rust for AI?
+
+Most AI models require Python + PyTorch + CUDA. We took a different path:
+
+| | Python Stack | QoraNet (Rust) |
+|---|---|---|
+| **Install size** | 2-10 GB | Single binary |
+| **Startup time** | 10-30 seconds | < 1 second |
+| **Memory usage** | High (GC overhead) | Minimal (zero-cost abstractions) |
+| **GPU required** | Usually yes | No |
+| **Cross-compile** | Painful | Native |
+| **Security** | Runtime errors | Compile-time safety |
+| **Deployment** | Docker + dependencies | Copy one file |
+
+---
+
+## 🤝 Community & Contributing
+
+We're building in the open and welcome contributions:
+
+- **GitHub**: [github.com/qora-protocol](https://github.com/qora-protocol)
+- **Twitter/X**: [@Qora_Net](https://twitter.com/qora_net)
+- **LinkedIn**: [company/qoranet](https://linkedin.com/company/qoranet)
+- **Reddit**: [r/QoraNet](https://www.reddit.com/r/QoraNet/)
+- **Email**: info@qoranet.com
+
+---
+
+## 📜 License
+
+Our AI models are open source. See individual model repos for specific license details.
+
+---
+
+<div align="center">
+
+**Built with 🦀 Rust and 🔥 Burn**
+
+*AI should be private, fast, free, and yours. We're making that real.*
+
+⚡ **QoraNet** — The Privacy-First Blockchain Infrastructure for AI
+
+</div>
+
+---
 
 *Last updated: January 2026*
